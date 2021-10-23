@@ -1,3 +1,3 @@
 # very-simple-site
-very simple site using html and bootstrap
-open mester
+very simple site using html and bootstrap////
+open master branch
